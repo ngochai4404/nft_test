@@ -1,7 +1,7 @@
 {
    "name":"Lucky Item",
    "description":"Luffy's hat : Lucky up 100",
-"image_url":"https://raw.githubusercontent.com/ngochai4404/nft_test/main/card/1.jpeg",
+"image": "https://raw.githubusercontent.com/ngochai4404/nft_test/main/card/1.jpeg",
    "attributes":[
       {
          "trait_type":"Avatar",
