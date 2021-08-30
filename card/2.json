@@ -1,11 +1,11 @@
 {
-    "name": "Lucky Item",
-    "description": "Luffy's hat : Lucky up 100",
-    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/cards/1.jpg",
+    "name": "Speed Item",
+    "description": "Speed : Speed up 100",
+    "image_url": "https://github.com/ngochai4404/nft_test/blob/main/card/2.jpeg",
     "attributes": [
         {
-          "lucky": "increase", 
-          "value": "100"
+          "Speed": "increase", 
+          "value": "10"
         }        
       ]
 }
